@@ -1,0 +1,6 @@
+framework module Pods_delegate_timer_delegate_timerUITests {
+  umbrella header "Pods-delegate-timer-delegate-timerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
